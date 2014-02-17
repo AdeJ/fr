@@ -1,0 +1,28 @@
+{
+    "type": "Ext.Container",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userClassName": "MyContainer"
+    },
+    "designerId": "58709443-2a8d-4390-aa72-1bf302516c86",
+    "cn": [
+        {
+            "type": "Ext.Label",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "centered": true,
+                "html": "This is getting frustrating"
+            },
+            "designerId": "689fd3be-c7be-4040-bc97-88db91abde3a"
+        }
+    ]
+}
